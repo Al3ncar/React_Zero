@@ -14,7 +14,7 @@ export default function Aulas (){
         <TemplatExp />
         <MyComponents />
         <EventClick />
-        
+
       </div>
     </div>
   )
